@@ -1,9 +1,6 @@
-# 早日毕业的莫叶
-
-> [CSDN博客](https://blog.csdn.net/MO__YE)
-
-> [博客园](https://home.cnblogs.com/u/Pantom)
-
-> [页面定制](https://docsify.js.org/#/zh-cn/more-pages)
-
-> [GitHub](https://github.com/moye12325/ "github")
+- [人工智能](人工智能/)
+  - [神经符号与人工智能纲要](人工智能/神经符号与人工智能纲要.md)
+- [问题记录](问题记录/)
+  - [conda常见命令](问题记录/conda常见命令.md)
+  - [Github上传下载网络问题](问题记录/Github上传下载网络问题.md)
+  - [最正确的解决ValueError](问题记录/最正确的解决ValueError.md)
