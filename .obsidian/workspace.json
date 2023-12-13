@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "ee78c89b1635e393",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b1e6e8e0edc5c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2115288d9a083ee8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Snipaste_2023-12-13_15-43-16.png"
+              }
+            },
+            "group": "3018009bb4784150"
+          }
+        ]
+      },
+      {
+        "id": "1261060f15b7e810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86455ceb982ffbf3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Snipaste_2023-12-13_15-43-16.png"
+              }
+            },
+            "group": "3018009bb4784150"
+          },
+          {
+            "id": "d912f2a6db082748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/人工智能/神经符号与人工智能纲要.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c11e6e3741bc63bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/人工智能/神经符号与人工智能纲要.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e5be39b8e206f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff2671815d69288d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "465a292e92665a75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dddc4a47b63ddd3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "447618e89d205c47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a016190716cb860",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e1e2b1c6617c6cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8cd62df90d3a8d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Snipaste_2023-12-13_15-43-16.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92c8592cf1a6b97d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Snipaste_2023-12-13_15-43-16.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aeaeab034036b9a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65b63fd389fbae6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Snipaste_2023-12-13_15-43-16.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2115288d9a083ee8",
+  "lastOpenFiles": [
+    "docs/README.md",
+    "docs/_sidebar.md",
+    "docs/_coverpage.md",
+    "docs/人工智能/神经符号与人工智能纲要.md",
+    "docs/人工智能/_sidebar.md.md",
+    "docs/人工智能"
+  ]
+}
