@@ -5,12 +5,15 @@
       <change beforePath="$PROJECT_DIR$/../.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/app.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/appearance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Snipaste_2023-12-13_15-43-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/人工智能/9.使用常识知识图和神经模型构建强大且可解释的人工智能.md" beforeDir="false" afterPath="$PROJECT_DIR$/人工智能/9.使用常识知识图和神经模型构建强大且可解释的人工智能.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,7 +29,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,7 +43,11 @@
       <option name="presentableId" value="Default" />
       <updated>1702628109494</updated>
       <workItem from="1702628109947" duration="6000" />
+      <workItem from="1702823925092" duration="10000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
