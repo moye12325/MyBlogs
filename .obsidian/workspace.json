@@ -4,63 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "6b1e6e8e0edc5c66",
+        "id": "68fb49888af147d8",
         "type": "tabs",
+        "dimension": 42.774049217002236,
         "children": [
           {
-            "id": "2115288d9a083ee8",
+            "id": "8db2b1aa6b2bdca9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Snipaste_2023-12-13_15-43-16.png"
+                "file": "docs/算法/06.2选择排序.md",
+                "mode": "source",
+                "source": true
               }
             },
-            "group": "3018009bb4784150"
+            "group": "5f8ac3a7e071a0b3"
           }
         ]
       },
       {
-        "id": "1261060f15b7e810",
+        "id": "14fcf32891c01187",
         "type": "tabs",
+        "dimension": 23.89261744966443,
         "children": [
           {
-            "id": "86455ceb982ffbf3",
+            "id": "a2376f0ea312ff44",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "outline",
               "state": {
-                "file": "Snipaste_2023-12-13_15-43-16.png"
+                "file": "docs/算法/06.2选择排序.md"
               }
             },
-            "group": "3018009bb4784150"
-          },
-          {
-            "id": "d912f2a6db082748",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/人工智能/神经符号与人工智能纲要.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c11e6e3741bc63bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/人工智能/神经符号与人工智能纲要.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            "group": "5f8ac3a7e071a0b3"
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "f6f61a0765b9e792",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "16986c48edffa188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/算法/06.2选择排序.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "5f8ac3a7e071a0b3"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 280.5
   },
   "right": {
     "id": "3a016190716cb860",
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snipaste_2023-12-13_15-43-16.png",
+                "file": "docs/算法/06.2选择排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snipaste_2023-12-13_15-43-16.png",
+                "file": "docs/算法/06.2选择排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snipaste_2023-12-13_15-43-16.png"
+                "file": "docs/算法/06.2选择排序.md"
               }
             }
           }
@@ -187,13 +186,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2115288d9a083ee8",
+  "active": "8db2b1aa6b2bdca9",
   "lastOpenFiles": [
+    "docs/算法/06.1冒泡排序.md",
+    "docs/算法/06.0排序算法概述与时间复杂度.md",
+    "docs/算法/06.2选择排序.md",
+    "docs/算法/03.0单链表.md",
+    "docs/算法/03.1单链表反转.md",
+    "docs/算法/04.0栈.md",
+    "docs/算法/assets/06排序算法概述与时间复杂度_image_4.png",
+    "docs/算法/assets/06排序算法概述与时间复杂度_image_3.png",
+    "docs/算法/assets/06排序算法概述与时间复杂度_image_2.png",
+    "docs/算法/01.稀疏矩阵.md",
+    "docs/算法/02.队列.md",
+    "docs/算法/03.2从尾到头打印单链表.md",
+    "docs/算法/04.1使用栈完成计算功能.md",
+    "docs/算法/04.2波兰式.md",
+    "docs/算法/04.3中缀转后缀.md",
+    "docs/算法/05.递归.md",
+    "docs/算法/assets/06排序算法概述与时间复杂度_image_1.png",
+    "docs/人工智能/9.使用常识知识图和神经模型构建强大且可解释的人工智能.md",
+    "docs/人工智能/0.神经符号与人工智能纲要.md",
+    "docs/人工智能/_sidebar.md",
+    "docs/问题记录/Github上传下载网络问题.md",
+    "docs/问题记录/conda常见命令.md",
+    "docs/问题记录/最正确的解决ValueError.md",
+    "docs/算法/assets/4.1使用栈完成计算功能_image_1.png",
+    "docs/算法/assets/4.栈_image_1.png",
+    "docs/算法/assets/3.2从尾到头打印单链表_image_1.png",
+    "docs/算法/assets/tmp1702634462931_3.2从尾到头打印单链表_image_1.png",
+    "docs/算法/assets/3.1单链表反转_image_1.png",
+    "docs/算法/assets/3.单链表_image_1.png",
+    "docs/算法/README.md",
+    "docs/问题记录/未命名.md",
     "docs/README.md",
     "docs/_sidebar.md",
     "docs/_coverpage.md",
-    "docs/人工智能/神经符号与人工智能纲要.md",
-    "docs/人工智能/_sidebar.md.md",
-    "docs/人工智能"
+    "docs/问题记录/README.md",
+    "docs/问题记录/_sidebar.md",
+    "docs/算法/assets",
+    "docs/算法",
+    "DocsifyBuildSidebar/Config/Config.json",
+    "DocsifyBuildSidebar/DocsifyBuildSidebar.exe",
+    "DocsifyBuildSidebar/Config",
+    "DocsifyBuildSidebar",
+    "docs/问题记录/assets",
+    "win-x64_2/Config/Config.json",
+    "win-x64_2/DocsifyBuildSidebar.exe",
+    "win-x64_2/Config"
   ]
 }
