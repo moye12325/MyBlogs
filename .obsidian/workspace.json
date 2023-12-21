@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/算法/06.2选择排序.md",
+                "file": "docs/算法/06.3选择排序.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/算法/06.2选择排序.md"
+                "file": "docs/算法/06.3选择排序.md"
               }
             },
             "group": "5f8ac3a7e071a0b3"
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/算法/06.2选择排序.md",
+                "file": "docs/算法/06.3选择排序.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/算法/06.2选择排序.md",
+                "file": "docs/算法/06.3选择排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/算法/06.2选择排序.md",
+                "file": "docs/算法/06.3选择排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/算法/06.2选择排序.md"
+                "file": "docs/算法/06.3选择排序.md"
               }
             }
           }
@@ -188,9 +188,10 @@
   },
   "active": "8db2b1aa6b2bdca9",
   "lastOpenFiles": [
+    "docs/算法/06.2选择排序.md",
+    "docs/算法/06.3选择排序.md",
     "docs/算法/06.1冒泡排序.md",
     "docs/算法/06.0排序算法概述与时间复杂度.md",
-    "docs/算法/06.2选择排序.md",
     "docs/算法/03.0单链表.md",
     "docs/算法/03.1单链表反转.md",
     "docs/算法/04.0栈.md",
@@ -223,7 +224,6 @@
     "docs/_sidebar.md",
     "docs/_coverpage.md",
     "docs/问题记录/README.md",
-    "docs/问题记录/_sidebar.md",
     "docs/算法/assets",
     "docs/算法",
     "DocsifyBuildSidebar/Config/Config.json",
