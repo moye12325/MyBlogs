@@ -6,7 +6,7 @@
       {
         "id": "68fb49888af147d8",
         "type": "tabs",
-        "dimension": 42.774049217002236,
+        "dimension": 47.56152125279642,
         "children": [
           {
             "id": "8db2b1aa6b2bdca9",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/算法/06.3选择排序.md",
+                "file": "docs/算法/07查找.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "14fcf32891c01187",
         "type": "tabs",
-        "dimension": 23.89261744966443,
+        "dimension": 12.21476510067114,
         "children": [
           {
             "id": "a2376f0ea312ff44",
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/算法/06.3选择排序.md"
+                "file": "docs/算法/07查找.md"
               }
             },
             "group": "5f8ac3a7e071a0b3"
@@ -44,7 +44,7 @@
       {
         "id": "f6f61a0765b9e792",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 40.22371364653244,
         "children": [
           {
             "id": "16986c48edffa188",
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/算法/06.3选择排序.md",
+                "file": "docs/算法/07查找.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/算法/06.3选择排序.md",
+                "file": "docs/算法/07查找.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/算法/06.3选择排序.md",
+                "file": "docs/算法/07查找.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/算法/06.3选择排序.md"
+                "file": "docs/算法/07查找.md"
               }
             }
           }
@@ -188,8 +188,10 @@
   },
   "active": "8db2b1aa6b2bdca9",
   "lastOpenFiles": [
+    "docs/算法/assets/07查找_image_1.png",
+    "docs/算法/06.3插入排序.md",
+    "docs/算法/07查找.md",
     "docs/算法/06.2选择排序.md",
-    "docs/算法/06.3选择排序.md",
     "docs/算法/06.1冒泡排序.md",
     "docs/算法/06.0排序算法概述与时间复杂度.md",
     "docs/算法/03.0单链表.md",
@@ -222,8 +224,6 @@
     "docs/问题记录/未命名.md",
     "docs/README.md",
     "docs/_sidebar.md",
-    "docs/_coverpage.md",
-    "docs/问题记录/README.md",
     "docs/算法/assets",
     "docs/算法",
     "DocsifyBuildSidebar/Config/Config.json",
